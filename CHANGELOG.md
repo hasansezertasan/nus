@@ -11,14 +11,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.0] - 2025-08-05
 
-## :rocket: Features
+### :rocket: Features
 
-- feat: add initial project documentation including changelog, code of conduct, and contributing guidelines by hasansezertasan in (#2)
+- feat: add initial project documentation including changelog, code of conduct, and contributing guidelines by @hasansezertasan in (#2)
 - chore(setup): initialize project structure with configuration files and logging setup by @hasansezertasan in (#1)
 
-## New Contributors
+### :memo: Documentation
 
-- @hasansezertasan made their first contribution
+- feat: add initial project documentation including changelog, code of conduct, and contributing guidelines by @hasansezertasan in (#2)
+
+### :bow: Credits
+
+Special thanks to the following contributors who helped with this release: @hasansezertasan
 
 <!-- refs -->
 
