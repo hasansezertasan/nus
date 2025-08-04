@@ -31,7 +31,6 @@ def setup_logger() -> logging.Logger:
     if not logger.handlers:
         # Ensure the log file exists
         DEFAULT_USER_HOME_CACHE_PATH.mkdir(parents=True, exist_ok=True)
-        log_file_path.touch(exist_ok=True)
 
         # Create a file handler that logs all messages
         file_handler = RotatingFileHandler(
