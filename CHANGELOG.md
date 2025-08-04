@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## :rocket: Features
 
+- feat: add initial project documentation including changelog, code of conduct, and contributing guidelines by hasansezertasan in (#2)
 - chore(setup): initialize project structure with configuration files and logging setup by @hasansezertasan in (#1)
 
 ## New Contributors
