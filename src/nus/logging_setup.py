@@ -9,9 +9,6 @@ from nus.config import log_file_path
 logger = logging.getLogger("nus")
 logger.setLevel(logging.INFO)
 
-# Create the log file
-log_file_path.touch(exist_ok=True)
-
 # Create a file handler that logs all messages
 file_handler = RotatingFileHandler(
     log_file_path, maxBytes=10 * 1024 * 1024, backupCount=5
